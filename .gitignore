@@ -1,0 +1,7 @@
+*.o
+build
+compile_commands.json
+neovim.json
+.cache
+.ccls-cache
+matrix
